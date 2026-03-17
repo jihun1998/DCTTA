@@ -1,5 +1,5 @@
 # DCTTA
-Official repository for CVPR 2024 paper: "**DC-TTA: Divide-and-Conquer Framework for Test-Time Adaptation of Interactive Segmentation**".
+Official repository for ICCV 2025 paper: "**DC-TTA: Divide-and-Conquer Framework for Test-Time Adaptation of Interactive Segmentation**".
 This code is implemented based on [ClickSEG repository](https://github.com/XavierCHEN34/ClickSEG).
 
 ## Prerequisite
