@@ -2,6 +2,8 @@
 Official repository for ICCV 2025 paper: "**DC-TTA: Divide-and-Conquer Framework for Test-Time Adaptation of Interactive Segmentation**".
 This code is implemented based on [ClickSEG repository](https://github.com/XavierCHEN34/ClickSEG).
 
+<video src="DCTTA/camourflage_00623_demo_v3_var.mp4" controls="controls" width="100%"></video>
+
 ## Prerequisite
 * Tested on Ubuntu 20.04, with Python 3.10.14, PyTorch 2.3.0 with 1 GPUs.
 * [CAMO](https://github.com/ltnghia/CAMO) dataset: Download dataset and place under ./datasets folder.
